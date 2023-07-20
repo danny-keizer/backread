@@ -13,7 +13,7 @@ def install_modules(modules):
             subprocess.check_call([sys.executable, "-m", "pip", "install", module])
 
 
-modules = ["flask", "socket"]
+modules = ["flask", "socket", "gunicorn"]
 install_modules(modules)
 
 # Find IP address
