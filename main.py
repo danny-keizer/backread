@@ -52,7 +52,7 @@ def login():
                     <label for="password">Password:</label><br>
                     <input type="password" id="password" name="password"><br><br>
                     <input type="submit" value="Login">
-                    <span>I Love you Marianne &#128151; </span><br><br>
+                    <span>I Love you so much Marianne &#128151; </span><br><br>
                 </form>
             </body>
         </html>
